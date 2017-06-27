@@ -1,16 +1,16 @@
 body{
-    background-color:cyan
+    background-color:floralwhite
 }
+
 
 
 
 h2{
-    border-color: darkblue
+    color:lightcoral
 }
 
-h2{
-    color:darkblue
-}
+
+
 
 h2{
     font-family:fantasy
@@ -25,23 +25,57 @@ li{
 }
 
 li{
-    font-size: 18px
+    font-size: 15px
+}
+
+
+
 }
 h1{
     font-family: fantasy
 }
 
 h1{
-    color:darkblue
+    color:black
 }
 
 h1{
-    border-style:groove
+    border-style:hidden
 }
+
 h1{
-    border-color:blueviolet
+    font-size: 35px
+}
+
+h1{
+    font-family: fantasy
 }
 
 p{
-    font-size: 18px
+    font-size: 22px
+}
+
+button {
+    background-color: skyblue; 
+    color: indianred;
+    padding: 10px 10px;
+    text-align: right;
+    text-decoration:underline
+    display: inline-block;
+    font-size: 10px;
+}
+
+li a {
+    font-size: 40px;
+    font-family: fantasy;
+    
+}
+
+a{
+    font-size: 20px
+}
+
+img {
+    width:300px;
+    height:400px;
 }
